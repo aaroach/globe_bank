@@ -1,0 +1,3 @@
+# globe_bank
+
+just learning php - nothing to see here...
